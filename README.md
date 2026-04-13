@@ -1,6 +1,6 @@
 # Juego Ranas Saltarinas
 
-Proyecto desarrollado en **Java** que implementa un juego basado en la mecánica de salto y resolución de posiciones, organizado en módulos de dominio, interfaz y recursos.
+Proyecto desarrollado en **Java** que implementa un juego basado en la mecánica de salto y resolución de posiciones, organizado en módulos de dominio e interfaz.
 
 ## Descripción
 
