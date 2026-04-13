@@ -8,7 +8,6 @@ El proyecto representa un juego con estructura modular, separando:
 
 - lógica del dominio
 - interfaz gráfica
-- recursos del sistema
 - configuración del proyecto
 
 ## Estructura del proyecto
@@ -19,4 +18,3 @@ Proyecto_Juego_Ranas_Saltarinas/
     ├── Domain/
     ├── GUI/
     ├── Proyecto_Juego_Ranas_Saltarinas/
-    └── paquetederecursos/
